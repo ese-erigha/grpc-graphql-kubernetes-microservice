@@ -1,4 +1,4 @@
-import { UserCreateDto } from '.';
+import { UserCreateDto } from './user.dto';
 import { User } from './user.model';
 
 export interface IUserService {
